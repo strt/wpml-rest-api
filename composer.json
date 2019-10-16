@@ -1,0 +1,8 @@
+{
+  "name": "strt/wpml-rest-api",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/strt/wpml-rest-api",
+  "license": "GPL-2.0",
+  "description": "Adds links to posts in other languages into the results of a WP REST API query for sites running the WPML plugin.",
+  "keywords": ["plugin","wordpress","wwpml-rest-api"]
+}
